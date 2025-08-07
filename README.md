@@ -35,9 +35,3 @@ This project is a lightweight document editor written in C that allows for creat
 - Max lines per paragraph: `MAX_PARAGRAPH_LINES`
 - Max number of paragraphs: `MAX_PARAGRAPHS`
 - All constants should be defined in `document.h`.
-
-## Author
-
-Daniel Son  
-Student ID: 119710265  
-GitHub: [djson721](https://github.com/djson721)
